@@ -1,3 +1,5 @@
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOURUSERNAME/YOURREPO)
+
 ## Cloudflare-workers/pages代理脚本
 
 ### 方案一支持workers部署（目前不可用）：实现vless+ws+tls与vless+ws两种代理节点
