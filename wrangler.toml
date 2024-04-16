@@ -1,4 +1,4 @@
-name = "cf-worker-edtunnel" # todo
+name = "yonggekkk-bak" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-UUID = "e49c378f-a5ed-4d63-8db3-000c7f80b998"
+UUID = "6d213c37-f1e7-4652-aa07-581978934a58"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
