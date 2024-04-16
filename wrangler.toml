@@ -3,7 +3,7 @@ name = "yonggekkk-bak" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2024-04-16"
 
 [vars]
 UUID = "6d213c37-f1e7-4652-aa07-581978934a58"
